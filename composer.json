@@ -1,0 +1,16 @@
+{
+    "name": "ira/js",
+    "description": "JS",
+    "type": "project",
+    "require": {
+        "twbs/bootstrap": "^3.3",
+        "components/jquery": "^3.2"
+    },
+    "authors": [
+        {
+            "name": "Isael Anjos",
+            "email": "isael.r.anjos@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
